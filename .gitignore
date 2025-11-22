@@ -1,0 +1,44 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 编辑器文件
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 运行时数据
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# 依赖目录
+node_modules/
+jspm_packages/
+
+# 可选编译缓存目录
+.npm
+.eslintcache
+
+# 用户配置
+config.local.js
+settings.json
+
+# 备份文件
+*.bak
+*.tmp
+
+# 环境变量文件
+.env
+.env.local
